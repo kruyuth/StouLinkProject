@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemList">
+        <item>ตรวจสอบผลสอบ</item>
+        <item>ตรวจสอบการลงทะเบียน</item>
+        <item>ตรวจสอบสนามสอบ</item>
+        <item>ตรวจสอบผลการเรียน</item>
+        <item>ปฏิทินการศึกษา</item>
+        <item>กิจกรรมประจำชุดวิชา</item>
+        <item>ชุดวิชาที่เปิดสอน</item>
+        <item>ตารางสอนเสริม</item>
+        <item>การลงทะเบียนเรียน</item>
+        <item>คำถามที่พบบ่อย</item>
+    </string-array>
+    <string-array name="itemURL">
+        <item>http://www.stou.ac.th/Website/QuestGrade/login.aspx</item>
+        <item>http://www.stou.ac.th/website/subbj/sendmailreg00.aspx</item>
+        <item>http://www.stou.ac.th/website/Exam/login_11.aspx</item>
+        <item>http://www.stou.ac.th/Registations/REGISTRATIONS/login.aspx</item>
+        <item>http://www.stou.ac.th/Offices/ore/rere/goto/Pages/ClassicCalendar.aspx#cal</item>
+        <item>http://www.stou.ac.th/Offices/Ore/rere/goto/pages/LiteViewer.aspx?reg=activ&nid=10</item>
+        <item>http://www.stou.ac.th/Offices/ore/rere/goto/Pages/LiteViewer.aspx?reg=open&nid=9</item>
+        <item>http://www.stou.ac.th/Offices/Oes/OesPage/l_center/Education%20services.html</item>
+        <item>http://www.stou.ac.th/Offices/ore/rere/info/pages/regis.asp</item>
+        <item>http://www.stou.ac.th/Offices/ore/rere/goto/Pages/faqmainpage.aspx</item>
+    </string-array>
+</resources>
