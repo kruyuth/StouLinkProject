@@ -18,8 +18,8 @@
         <item>http://www.stou.ac.th/website/Exam/login_11.aspx</item>
         <item>http://www.stou.ac.th/Registations/REGISTRATIONS/login.aspx</item>
         <item>http://www.stou.ac.th/Offices/ore/rere/goto/Pages/ClassicCalendar.aspx#cal</item>
-        <item>http://www.stou.ac.th/Offices/Ore/rere/goto/pages/LiteViewer.aspx?reg=activ&nid=10</item>
-        <item>http://www.stou.ac.th/Offices/ore/rere/goto/Pages/LiteViewer.aspx?reg=open&nid=9</item>
+        <item>http://www.stou.ac.th/Offices/Ore/rere/goto/pages/LiteViewer.aspx?reg=activ&amp;nid=10</item>
+        <item>"http://www.stou.ac.th/Offices/ore/rere/goto/Pages/LiteViewer.aspx?reg=open&amp;nid=9"</item>
         <item>http://www.stou.ac.th/Offices/Oes/OesPage/l_center/Education%20services.html</item>
         <item>http://www.stou.ac.th/Offices/ore/rere/info/pages/regis.asp</item>
         <item>http://www.stou.ac.th/Offices/ore/rere/goto/Pages/faqmainpage.aspx</item>
